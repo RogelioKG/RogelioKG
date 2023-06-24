@@ -1,6 +1,6 @@
 ### <a href="https://rogelio-resume.azurewebsites.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/RogelioKG/RogelioKG/main/doge.png" alt="rogeliokg" height="40" width="40" /></a> Hi there, I am Rogelio <a href="https://www.rogeliokg.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 🔭 &nbsp;You can ask me about anything about C, C++, Python!
+- 🔭 &nbsp;You can ask me about anything about C, C++, and Python!
 - 🌱 &nbsp;I'm currently learning JavaScript and plan to learn Java in the future.
 - ⚡ &nbsp;I am fond of cycling and bodybuilding.
 - 🎮 &nbsp;A big fan of Souls Game. All achievements unlocked in Dark Souls 3 & Sekiro.
