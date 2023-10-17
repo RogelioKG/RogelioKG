@@ -54,6 +54,18 @@
   </p>
 </blockquote>
 
+#### 🔗 Data Analysis
+<blockquote>
+  <p align="left">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+    </a> <!-- Pandas -->
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/RogelioKG/RogelioKG/assets/86526364/7257d455-0c0f-46cd-b33a-f6838b24da5a" alt="matplotlib" width="50" height="50"/>
+    </a> <!-- Matplotlib -->
+  </p>
+</blockquote>
+
 #### 🔗 Frontend Frameworks (Learning)
 <blockquote>
   <p align="left">
@@ -65,11 +77,14 @@
 
 #### 🔗 Backend Frameworks (Learning)
 <blockquote>
-    <a>
-    </a> <!-- ... -->
+    <p align="left">
+      <a>
+      </a> <!-- ... -->
+    </p>
+    <br>
+    <br>
 </blockquote>
-<br>
-<br>
+
 
 #### 🔗 Connect with me
 <blockquote>
