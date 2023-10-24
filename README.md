@@ -49,5 +49,6 @@
 <a href="https://www.instagram.com/kg_jerry0813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogeliokg" height="40" width="40" /></a> <!-- Instagram -->
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rogeliokg&show_icons=true&include_all_commits=true&layout=compact&card_width=400&theme=github_dark" alt="RogelioKG's Github stats" align="left" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliokg&layout=compact&card_width=300&theme=github_dark&langs_count=10" alt="RogelioKG's Top Languages" align="right" width="295" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=rogeliokg&show_icons=true&include_all_commits=true&layout=compact&card_width=400&theme=github_dark)
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliokg&layout=compact&card_width=300&theme=github_dark&langs_count=10)
