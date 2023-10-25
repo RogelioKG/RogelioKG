@@ -32,7 +32,7 @@
 
 ### Data Analysis
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" /></a> <!-- Pandas -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/RogelioKG/RogelioKG/assets/86526364/7257d455-0c0f-46cd-b33a-f6838b24da5a" alt="matplotlib" width="50" height="50" /></a> <!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="50" height="50" /></a> <!-- Matplotlib -->
 
 ### Frontend Frameworks (Learning)
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" /></a> <!-- Vue.js -->
