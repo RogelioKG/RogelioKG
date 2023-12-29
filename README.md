@@ -35,15 +35,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" /></a> <!-- Pandas -->
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="50" height="50" /></a> <!-- Matplotlib -->
 
-### Frontend Frameworks (Learning)
+### Frameworks (Learning)
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" height="50" /></a> <!-- Vue.js -->
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50" /></a> <!-- Flask -->
-
-
-### Backend Frameworks (Learning)
-<a></a> <!-- ... -->
-<br />
-<br />
 
 ## Connect with me
 <a href="https://www.facebook.com/RogelioKG/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RogelioKG_fb" height="40" width="40" /></a> <!-- Facebook -->
