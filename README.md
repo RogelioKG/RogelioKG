@@ -41,6 +41,6 @@
 
 ## Stats
 <p>
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=rogeliokg&show_icons=true&include_all_commits=true&layout=compact&theme=github_dark" />
+  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=rogeliokg&show_icons=true&layout=compact&theme=github_dark" />
   <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliokg&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
 </p>
