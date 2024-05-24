@@ -19,7 +19,7 @@
 ## My Skills
 
 ### Languages
-[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
