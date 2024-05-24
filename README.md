@@ -15,24 +15,25 @@
 
 ![Conway's Game of Life](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1xdTQxMW41bnF3dnY0Y3IzYmRpMXJrbGgzMWVwOG90MzVreXlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ynI3vCQW9zZMwwELQC/giphy.gif)
 
+
 ## My Skills
 
 ### Languages
-[![C](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 
-### Databases
+### Tech Stacks
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+<a href="https://docs.pytest.org/"><img src="https://i.imgur.com/eOm8Q9x.png" height=48 width=48 /></a>
 
-### Web Frameworks
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
 
 ## Connect with me
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
