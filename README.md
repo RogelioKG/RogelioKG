@@ -40,8 +40,8 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rogelio-kg-33b71624a)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kg_jerry0813/)
 
-## Stats
+<!-- ## Stats
 <p>
   <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=rogeliokg&show_icons=true&layout=compact&theme=github_dark" />
   <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeliokg&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
-</p>
+</p> -->
