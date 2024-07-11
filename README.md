@@ -15,27 +15,24 @@
 
 ![Conway's Game of Life](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1xdTQxMW41bnF3dnY0Y3IzYmRpMXJrbGgzMWVwOG90MzVreXlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ynI3vCQW9zZMwwELQC/giphy.gif)
 
-
-## My Skills
-
-### Languages
+## 🛠️ Tech Stacks
 [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML/)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+[![Markdown](https://skillicons.dev/icons?i=markdown)](https://www.markdownguide.org/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-
-### Tech Stacks
+</br>
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 <a href="https://docs.pytest.org/"><img src="https://i.imgur.com/eOm8Q9x.png" height=48 width=48 /></a>
 
+## 📓 Now Learning
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 
-## Connect with me
+## 📩 Connect with me
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rogelio-kg-33b71624a)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kg_jerry0813/)
