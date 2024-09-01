@@ -13,8 +13,6 @@
 + ⚡ &nbsp;I'm fond of cycling and bodybuilding.
 + 🎮 &nbsp;A big fan of Souls Game.
 
-![Conway's Game of Life](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1xdTQxMW41bnF3dnY0Y3IzYmRpMXJrbGgzMWVwOG90MzVreXlwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ynI3vCQW9zZMwwELQC/giphy.gif)
-
 ## 🛠️ Tech Stacks
 [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
