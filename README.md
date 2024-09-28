@@ -19,6 +19,7 @@
 [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 </br>
@@ -29,7 +30,6 @@
 <a href="https://docs.pytest.org/"><img src="https://i.imgur.com/eOm8Q9x.png" height=48 width=48 /></a>
 
 ## 📓 Now Learning
-[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
