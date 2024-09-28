@@ -22,7 +22,7 @@
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
-</br>
+<br />
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
