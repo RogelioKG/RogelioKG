@@ -19,7 +19,7 @@
 [![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Markdown](https://skillicons.dev/icons?i=markdown)](https://www.markdownguide.org/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 </br>
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
@@ -30,7 +30,8 @@
 
 ## 📓 Now Learning
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 ## 📩 Connect with me
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
