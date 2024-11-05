@@ -2,7 +2,7 @@
   <a href="https://www.rogeliokg.com/" target="_blank" rel="noreferrer">
     <img align=center src="https://raw.githubusercontent.com/RogelioKG/RogelioKG/main/doge.png" alt="rogeliokg" height="60" width="60" />
   </a>
-  Hi there, I am Rogelio
+  Hi there, I am RogelioKG
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
 </h2>
 
