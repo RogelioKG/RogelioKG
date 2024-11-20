@@ -29,8 +29,6 @@
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
-## 📓 Now Learning
-
 ## 📩 Connect with me
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rogelio-kg-33b71624a)
