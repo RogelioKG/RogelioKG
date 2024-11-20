@@ -22,14 +22,14 @@
 [![SCSS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 <br />
+<a href="https://docs.pytest.org/"><img src="https://i.imgur.com/eOm8Q9x.png" height=48 width=48 /></a>
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-<a href="https://docs.pytest.org/"><img src="https://i.imgur.com/eOm8Q9x.png" height=48 width=48 /></a>
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
 ## 📓 Now Learning
-[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 
 ## 📩 Connect with me
 [![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
