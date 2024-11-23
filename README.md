@@ -28,8 +28,3 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-
-## 📩 Connect with me
-[![X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Rogelio_KG)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rogelio-kg-33b71624a)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kg_jerry0813/)
