@@ -14,7 +14,6 @@
 ![Conway's Game of Life](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVsdnRodTd6ZG9kcDY3a2ZmM2lscDZjdDVnYXJudHp4a2p4c3JtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDXiwr9s0porgJSSa5/giphy.gif)
 
 ## 🛠️ Tech Stacks
-[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://en.cppreference.com/w/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
