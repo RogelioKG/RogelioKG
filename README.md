@@ -29,3 +29,7 @@
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 <br />
+
+<a href="https://docs.pytest.org/">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+</a>
