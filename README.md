@@ -19,6 +19,7 @@
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
 [![SCSS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 <br />
 
@@ -29,7 +30,3 @@
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 <br />
-
-<a href="https://docs.pytest.org/">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
-</a>
