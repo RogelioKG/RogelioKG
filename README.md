@@ -27,6 +27,7 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 <br />
