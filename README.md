@@ -23,11 +23,10 @@
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 <br />
 
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 <br />
