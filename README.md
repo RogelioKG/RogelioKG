@@ -23,6 +23,7 @@
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 <br />
 
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
