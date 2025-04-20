@@ -23,11 +23,11 @@
 [![LaTeX](https://skillicons.dev/icons?i=latex)](https://www.latex-project.org/)
 <br />
 
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://github.com/PowerShell/PowerShell)
 <br />
